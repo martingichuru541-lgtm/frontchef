@@ -1,0 +1,6 @@
+{
+  "name": "KenyaOne — Frost Chef Digital Kitchen",
+  "description": "Where Kenyan Flavours Meet Culinary Intelligence. Flagship digital cooking department of KenyaOne featuring AI Kenyan Chef, 47 Counties Culinary Explorer, Interactive Cooking Studio, and Professional Kitchen tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
